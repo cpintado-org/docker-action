@@ -1,4 +1,4 @@
-name: "test docker private action"
+name: "test docker action"
 description: "Docker container action that echoes a string to standard output"
 runs:
   using: 'docker'
