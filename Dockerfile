@@ -1,2 +1,2 @@
 FROM alpine:3.10
-ENTRYPOINT ["echo hello world"]
+ENTRYPOINT ["/bin/echo hello world"]
